@@ -49,3 +49,5 @@ Amazon QuickSight is used to build dashboards and reports. It connects to Athena
 - Video performance over time
 - Trends by category
 - Top-performing channels
+
+![QuickSight Dashboard](Quicksight%20dashboard.png)
